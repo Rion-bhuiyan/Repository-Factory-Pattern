@@ -1,0 +1,14 @@
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.exe.config
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.exe
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.pdb
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.csproj.AssemblyReference.cache
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.csproj.CoreCompileInputs.cache
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.exe
+C:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.pdb
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.exe.config
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.exe
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\bin\Debug\ex-2-RepositoryFactoryproject.pdb
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.csproj.AssemblyReference.cache
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.csproj.CoreCompileInputs.cache
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.exe
+E:\Idb\C#\class_23\RepositoryFactoryproject\ex-2-RepositoryFactoryproject\obj\Debug\ex-2-RepositoryFactoryproject.pdb
